@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dussaucyP
-- 👀 I’m interested in automatisation of testing
+- 👀 I’m interested in test automation
 - 🌱 I’m currently learning JAVA, Python and how to use Github/Gitlab, robotframeworks and Selenium
 - 💞️ I’m not looking to collaborate for the moment.
 - 📫 How to reach me : metalmann@hotmail.fr
